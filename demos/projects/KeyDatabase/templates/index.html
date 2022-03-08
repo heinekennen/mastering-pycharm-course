@@ -1,0 +1,8 @@
+{%  extends "layout.html" %}
+{% block content %}
+    {%  for post in posts %}
+        <h1>{{ post.staff }}</h1>
+        <p><b>Date: </b> {{ post.date_assigned }}</p>
+        <p><b>FOB#: </b> {{ post.fob_number }}</p>
+    {%  endfor %}
+{% endblock content %}

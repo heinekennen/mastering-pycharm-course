@@ -1,0 +1,24 @@
+#HOMEPAGE#
+Homepage is the main page for administration use for Donna etc.
+-Search staff name >
+
+-Ability to quickly assign key set/s
+    - eg CRT set
+-Ability to revoke keys - via drop down box, type staff name > revoke > confirm.
+-Ability to confirm staff still have that set of keys
+
+#ADMINPAGE#
+-Ability to check key 'stock'
+-Export database
+-Backup Database >Export to a location
+-Import CSV
+
+#STAFFPAGE#
+-Ability to revoke specific key/s
+-Ability to add extra keys.
+-Ability to confirm staff member still has keys sighted on <<current date>>
+
+#KEYS#
+-check to see what staff member has one of those keys
+-Ability to revoke
+-Ability to assign
